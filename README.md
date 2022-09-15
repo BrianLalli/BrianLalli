@@ -1,13 +1,14 @@
 Hi 👋 My name is Brian Lalli
 ==============================
 
-Senior Program Manager @ Whole Foods Market
+💼 Senior Program Manager @ Whole Foods Market
 ---------------------------------------
 
 *   🌍  I'm based in Austin, TX
 *   🖥️  See my portfolio at [Brian Lalli Portfolio](http://localhost:3000/brian-lalli-portfolio/)
 *   ✉️  You can contact me at [bdlalli11@gmail.com](mailto:bdlalli11@gmail.com)
-*   🧠  I'm passionate about building products for communities.
+*   🧠  I'm passionate about building products for communities
+*   🐕  Dog Dad to a 1 year old Rottsky named Moonie
 
 ### Skills
 <p align="left">
