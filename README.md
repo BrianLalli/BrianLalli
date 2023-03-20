@@ -5,7 +5,7 @@ Hi 👋 My name is Brian Lalli
 ---------------------------------------
 
 *   🌍  I'm based in Austin, TX
-*   🖥️  See my portfolio at [Brian Lalli Portfolio](http://localhost:3000/brian-lalli-portfolio/)
+*   🖥️  See my portfolio at [Brian Lalli Portfolio](https://brianlalli.github.io/brian-lalli-portfolio/)
 *   ✉️  You can contact me at [bdlalli11@gmail.com](mailto:bdlalli11@gmail.com)
 *   🧠  I'm passionate about building products that make life simpler.
 *   🐕  Dog Dad to a 2 year old Rottsky named Moonie
