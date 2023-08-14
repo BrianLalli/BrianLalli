@@ -8,7 +8,7 @@ Hi 👋 My name is Brian Lalli
 *   🖥️  See my portfolio at [Brian Lalli Portfolio](https://brianlalli.github.io/brian-lalli-portfolio/)
 *   ✉️  You can contact me at [bdlalli11@gmail.com](mailto:bdlalli11@gmail.com)
 *   🧠  I'm passionate about building products that make life simpler.
-*   🐕  Dog Dad to a 2 year old Rottsky named Moonie
+*   🐕  Girl Dad to Aaliyah June and a 2 year old Rottsky named Moonie
 
 ### Skills
 <p align="left">
