@@ -1,12 +1,12 @@
 Hi 👋 My name is Brian Lalli
 ==============================
 
-💼 Senior Program Manager @ Whole Foods Market
+💼 Founder / Lead Engineer @ Moon Rooster LLC.
 ---------------------------------------
 
-*   🌍  I'm based in Austin, TX
-*   🖥️  See my portfolio at [Brian Lalli Portfolio](https://brianlalli.github.io/brian-lalli-portfolio/)
-*   ✉️  You can contact me at [bdlalli11@gmail.com](mailto:bdlalli11@gmail.com)
+*   🌍  I'm based in Scranton, PA
+*   🖥️  See my portfolio at [Brian Lalli Portfolio](https://www.moonrooster.com/)
+*   ✉️  You can contact me at [brian@moonrooster.com](mailto:brian@moonrooster.com)
 *   🧠  I'm passionate about building products that make life simpler.
 *   🐕  Girl Dad to Aaliyah June and a 2 year old Rottsky named Moonie
 
